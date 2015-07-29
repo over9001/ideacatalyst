@@ -19,4 +19,6 @@ ideaCatalyst.roll = function () {
 
 iC = ideaCatalyst;
 
-iC.roll();
+iC.imagineering = iC.roll;
+iC.imagineering();
+
