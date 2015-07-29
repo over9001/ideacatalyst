@@ -1,10 +1,11 @@
 {
   "name": "imagineer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "An npm package to generate idea seeds for imagineering",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node example.js"
   },
   "repository": {
     "type": "git",
