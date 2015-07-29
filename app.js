@@ -14,6 +14,8 @@ newIdea.object = ideaCatalyst.objects[Math.floor(Math.random() * ideaCatalyst.ob
 newIdea.subject = ideaCatalyst.subjects[Math.floor(Math.random() * ideaCatalyst.subjects.length)];
 newIdea.mood = ideaCatalyst.moods[Math.floor(Math.random() * ideaCatalyst.moods.length)];
 newIdea.era = ideaCatalyst.eras[Math.floor(Math.random() * ideaCatalyst.eras.length)];
+	//Know it
+console.log(newIdea);
 	//Set it free
 return newIdea;
 }
