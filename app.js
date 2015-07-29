@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /**
  * An random idea seed generator.
  */
@@ -21,5 +22,5 @@ return newIdea;
 }
 	//Allow it to set others free
 module.exports = imagineer;
-
+	//Make it happen
 imagineer();
