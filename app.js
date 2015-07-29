@@ -1,8 +1,8 @@
 ideaCatalyst = {};
-ideaCatalyst.subjects = ["Genetics","Philosophy","Politics","Electronics","Linguistics","Friendship","War","Peace","Education","Efficiency","Telecommunications","Mathematics","Space/Time","Existentialism","Chemistry","Biology","Computer Science","Internet","Cooking","Fishing","Trolling","Countertrolling","Terrorism","Doublethink","Financial Engineering","Democracy","Anarchy"];
+ideaCatalyst.subjects = ["Genetics","Philosophy","Politics","Electronics","Linguistics","Friendship","War","Peace","Education","Efficiency","Telecommunications","Mathematics","Space/Time","Existentialism","Chemistry","Biology","Computer Science","Internet","Cooking","Fishing","Trolling","Countertrolling","Terrorism","Doublethink","Financial Engineering","Democracy","Anarchy","Imagineering"];
 ideaCatalyst.objects = ["Statue","Book","Manifesto","Consumer Product","Bacteria","Computer","Food","Building","Icon","Avatar","Clothing","Bike","Vehicle","Financial Product","Contract","Animal","Accessory","Tool","Sticker","Poster","Plan"];
-ideaCatalyst.eras = ["Tomorrow","Next Year","Next Decade","Next Century","Next Generation","Next Gigasecond (Thirty Years From Now)","Next Millennium"];
-ideaCatalyst.moods = ["Optimistic","Pessimistic","Suspicious","Loving","Tired","Inquisitive","Quixotic","Frantic","Hysterical","Enraged","Indignant","Joyous","Excited","Horny","Hella"];
+ideaCatalyst.eras = ["Tomorrow","Next Year","Next Decade (10 Years)","Next Century (100 Years)","Next Generation","Next Gigasecond (31.558 Years)","Next Millennium (1000 Years)"];
+ideaCatalyst.moods = ["Optimistic","Pessimistic","Suspicious","Loving","Tired","Inquisitive","Quixotic","Frantic","Hysterical","Enraged","Indignant","Joyous","Excited","Horny","Hella","Courageous","Stimulated","Energetic","Radioactive","Questing","Victorious",""];
 
 ideaCatalyst.idea = function () {
   newIdea = {};
