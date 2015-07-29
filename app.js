@@ -13,4 +13,10 @@ ideaCatalyst.idea = function () {
   return newIdea;
 };
 
-console.log(ideaCatalyst.idea());
+ideaCatalyst.roll = function () {
+  console.log(ideaCatalyst.idea());
+};
+
+iC = ideaCatalyst;
+
+iC.roll();
