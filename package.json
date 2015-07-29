@@ -1,0 +1,27 @@
+{
+  "name": "imagineer",
+  "version": "1.0.0",
+  "description": "An npm package to generate idea seeds for imagineering",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/over9001/ideacatalyst.git"
+  },
+  "keywords": [
+    "idea",
+    "catalyst",
+    "imagine",
+    "imagineer",
+    "imagineering",
+    "random"
+  ],
+  "author": "Ryan Petroff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/over9001/ideacatalyst/issues"
+  },
+  "homepage": "https://github.com/over9001/ideacatalyst"
+}
