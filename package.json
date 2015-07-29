@@ -1,6 +1,6 @@
 {
   "name": "imagineer",
-  "version": "1.1.0",
+  "version": "1.1.4",
   "description": "An npm package to generate idea seeds for imagineering",
   "main": "app.js",
   "scripts": {
