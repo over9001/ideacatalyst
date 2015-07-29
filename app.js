@@ -6,10 +6,10 @@ ideaCatalyst.moods = ["Optimistic","Pessimistic","Suspicious","Loving","Tired","
 
 ideaCatalyst.idea = function () {
   newIdea = {};
-  newIdea.subject = ideaCatalyst.subjects[Math.floor(Math.random() * ideaCatalyst.subjects.length)];
   newIdea.object = ideaCatalyst.objects[Math.floor(Math.random() * ideaCatalyst.objects.length)];
-  newIdea.era = ideaCatalyst.eras[Math.floor(Math.random() * ideaCatalyst.eras.length)];
+  newIdea.subject = ideaCatalyst.subjects[Math.floor(Math.random() * ideaCatalyst.subjects.length)];
   newIdea.mood = ideaCatalyst.moods[Math.floor(Math.random() * ideaCatalyst.moods.length)];
+  newIdea.era = ideaCatalyst.eras[Math.floor(Math.random() * ideaCatalyst.eras.length)];
   return newIdea;
 };
 
