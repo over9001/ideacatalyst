@@ -21,3 +21,5 @@ return newIdea;
 }
 	//Allow it to set others free
 module.exports = imagineer;
+
+imagineer();
