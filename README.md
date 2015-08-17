@@ -5,3 +5,8 @@ This will supply a random Subject, Object, Era, and Mood, and then the user gene
 
 
 Play around with the work in progress: https://jsfiddle.net/kaqustub/12/
+
+
+Creative Commons License
+Imagineer by Ryan Petroff is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
