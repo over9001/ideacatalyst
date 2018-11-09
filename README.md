@@ -1,3 +1,8 @@
+Permanently moved to https://gitlab.com/petroff.ryan/ideacatalyst
+
+---
+
+
 # ideacatalyst
 My own web implementation of Approximately The Thing From The Future. Now working! npm install -g imagineer
 
